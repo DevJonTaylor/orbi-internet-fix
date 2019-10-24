@@ -1,0 +1,18 @@
+{
+  "password": "password",
+  "port": 3000,
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "netgear": "^3.9.7"
+  }
+}
